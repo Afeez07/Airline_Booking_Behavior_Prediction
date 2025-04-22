@@ -1,0 +1,7 @@
+1. It's highly recommended to use a virtual environment first (e.g., using `python3 -m venv .venv` and then activating it).
+
+2. Then, install your libraries (e.g., `pip install pandas scikit-learn matplotlib seaborn`).
+
+3. Finally, generate the `requirements.txt` file: `pip freeze > requirements.txt`
+
+4. This file lists all the packages and their versions, ensuring others can easily set up their environment.
